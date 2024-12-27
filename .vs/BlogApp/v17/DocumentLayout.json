@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victus\\source\\repos\\BlogApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\victus\\source\\repos\\blogapp\\blogapp.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|solutionrelative:blogapp.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\victus\\source\\repos\\blogapp\\blogapp.dal\\context\\blogappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|solutionrelative:blogapp.dal\\context\\blogappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DD01C6-9D37-4F40-AF9D-BDA55582EF7F}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\victus\\source\\repos\\blogapp\\blogapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DD01C6-9D37-4F40-AF9D-BDA55582EF7F}|BlogApp.API\\BlogApp.API.csproj|solutionrelative:blogapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DD01C6-9D37-4F40-AF9D-BDA55582EF7F}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\victus\\source\\repos\\blogapp\\blogapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4DD01C6-9D37-4F40-AF9D-BDA55582EF7F}|BlogApp.API\\BlogApp.API.csproj|solutionrelative:blogapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\victus\\source\\repos\\blogapp\\blogapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\victus\\source\\repos\\blogapp\\blogapp.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\victus\\source\\repos\\blogapp\\blogapp.core\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\victus\\source\\repos\\blogapp\\blogapp.core\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\victus\\source\\repos\\blogapp\\blogapp.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\victus\\source\\repos\\blogapp\\blogapp.core\\blogapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\blogapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\BlogApp\\BlogApp.DAL\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "BlogApp.DAL\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\BlogApp\\BlogApp.DAL\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "BlogApp.DAL\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T23:00:49.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\BlogApp\\BlogApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "BlogApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\BlogApp\\BlogApp.API\\Program.cs",
+              "RelativeToolTip": "BlogApp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:50:06.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\BlogApp\\BlogApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\BlogApp\\BlogApp.API\\appsettings.json",
+              "RelativeToolTip": "BlogApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T22:47:44.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogAppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\BlogApp\\BlogApp.DAL\\Context\\BlogAppDBContext.cs",
+              "RelativeDocumentMoniker": "BlogApp.DAL\\Context\\BlogAppDBContext.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\BlogApp\\BlogApp.DAL\\Context\\BlogAppDBContext.cs",
+              "RelativeToolTip": "BlogApp.DAL\\Context\\BlogAppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:25:20.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\BlogApp\\BlogApp.Core\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "BlogApp.Core\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\BlogApp\\BlogApp.Core\\GlobalUsings.cs",
+              "RelativeToolTip": "BlogApp.Core\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:13:40.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\BlogApp\\BlogApp.Core\\Entities\\Blog.cs",
+              "RelativeDocumentMoniker": "BlogApp.Core\\Entities\\Blog.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\BlogApp\\BlogApp.Core\\Entities\\Blog.cs",
+              "RelativeToolTip": "BlogApp.Core\\Entities\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:18:08.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\BlogApp\\BlogApp.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BlogApp.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\BlogApp\\BlogApp.Core\\Entities\\User.cs",
+              "RelativeToolTip": "BlogApp.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:17:37.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\BlogApp\\BlogApp.Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "BlogApp.Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\BlogApp\\BlogApp.Core\\Entities\\Category.cs",
+              "RelativeToolTip": "BlogApp.Core\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:17:27.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlogApp.Core",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj",
+              "RelativeDocumentMoniker": "BlogApp.Core\\BlogApp.Core.csproj",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj",
+              "RelativeToolTip": "BlogApp.Core\\BlogApp.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T21:13:10.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\BlogApp\\BlogApp.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BlogApp.Core\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\BlogApp\\BlogApp.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "BlogApp.Core\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:13:33.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

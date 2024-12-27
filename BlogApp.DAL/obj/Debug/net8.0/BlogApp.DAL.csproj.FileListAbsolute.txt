@@ -1,0 +1,17 @@
+C:\Users\Victus\source\repos\BlogApp\BlogApp.DAL\bin\Debug\net8.0\BlogApp.DAL.deps.json
+C:\Users\Victus\source\repos\BlogApp\BlogApp.DAL\bin\Debug\net8.0\BlogApp.DAL.runtimeconfig.json
+C:\Users\Victus\source\repos\BlogApp\BlogApp.DAL\bin\Debug\net8.0\BlogApp.DAL.dll
+C:\Users\Victus\source\repos\BlogApp\BlogApp.DAL\bin\Debug\net8.0\BlogApp.DAL.pdb
+C:\Users\Victus\source\repos\BlogApp\BlogApp.DAL\bin\Debug\net8.0\BlogApp.Core.dll
+C:\Users\Victus\source\repos\BlogApp\BlogApp.DAL\bin\Debug\net8.0\BlogApp.Core.pdb
+C:\Users\Victus\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.csproj.AssemblyReference.cache
+C:\Users\Victus\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.AssemblyInfoInputs.cache
+C:\Users\Victus\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.AssemblyInfo.cs
+C:\Users\Victus\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp..7F175FDC.Up2Date
+C:\Users\Victus\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.dll
+C:\Users\Victus\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\refint\BlogApp.DAL.dll
+C:\Users\Victus\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.pdb
+C:\Users\Victus\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\BlogApp.DAL.genruntimeconfig.cache
+C:\Users\Victus\source\repos\BlogApp\BlogApp.DAL\obj\Debug\net8.0\ref\BlogApp.DAL.dll
