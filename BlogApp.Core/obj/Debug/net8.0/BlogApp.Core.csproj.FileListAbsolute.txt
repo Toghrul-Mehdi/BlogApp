@@ -9,3 +9,15 @@ C:\Users\Victus\source\repos\BlogApp\BlogApp.Core\obj\Debug\net8.0\BlogApp.Core.
 C:\Users\Victus\source\repos\BlogApp\BlogApp.Core\obj\Debug\net8.0\refint\BlogApp.Core.dll
 C:\Users\Victus\source\repos\BlogApp\BlogApp.Core\obj\Debug\net8.0\BlogApp.Core.pdb
 C:\Users\Victus\source\repos\BlogApp\BlogApp.Core\obj\Debug\net8.0\ref\BlogApp.Core.dll
+C:\Users\Victus\OneDrive\İş masası\BlogApp\BlogApp.Core\bin\Debug\net8.0\BlogApp.Core.deps.json
+C:\Users\Victus\OneDrive\İş masası\BlogApp\BlogApp.Core\bin\Debug\net8.0\BlogApp.Core.dll
+C:\Users\Victus\OneDrive\İş masası\BlogApp\BlogApp.Core\bin\Debug\net8.0\BlogApp.Core.pdb
+C:\Users\Victus\OneDrive\İş masası\BlogApp\BlogApp.Core\obj\Debug\net8.0\BlogApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\OneDrive\İş masası\BlogApp\BlogApp.Core\obj\Debug\net8.0\BlogApp.Core.AssemblyInfoInputs.cache
+C:\Users\Victus\OneDrive\İş masası\BlogApp\BlogApp.Core\obj\Debug\net8.0\BlogApp.Core.AssemblyInfo.cs
+C:\Users\Victus\OneDrive\İş masası\BlogApp\BlogApp.Core\obj\Debug\net8.0\BlogApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Victus\OneDrive\İş masası\BlogApp\BlogApp.Core\obj\Debug\net8.0\BlogApp.Core.sourcelink.json
+C:\Users\Victus\OneDrive\İş masası\BlogApp\BlogApp.Core\obj\Debug\net8.0\BlogApp.Core.dll
+C:\Users\Victus\OneDrive\İş masası\BlogApp\BlogApp.Core\obj\Debug\net8.0\refint\BlogApp.Core.dll
+C:\Users\Victus\OneDrive\İş masası\BlogApp\BlogApp.Core\obj\Debug\net8.0\BlogApp.Core.pdb
+C:\Users\Victus\OneDrive\İş masası\BlogApp\BlogApp.Core\obj\Debug\net8.0\ref\BlogApp.Core.dll

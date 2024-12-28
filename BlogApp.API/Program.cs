@@ -1,6 +1,8 @@
+using BlogApp.BL;
 using BlogApp.DAL.Context;
 using Microsoft.EntityFrameworkCore;
 using System.Data.Common;
+using BlogApp.DAL;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +16,8 @@ builder.Services.AddDbContext<BlogAppDBContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("Mssql"));
 });
+builder.Services.AddRepositories();
+builder.Services.AddServices();
 var app = builder.Build();
 
 

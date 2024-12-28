@@ -15,10 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <ProjectReference Include="..\BlogApp.BL\BlogApp.BL.csproj" />
     <ProjectReference Include="..\BlogApp.DAL\BlogApp.DAL.csproj" />
   </ItemGroup>
 
