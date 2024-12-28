@@ -24,5 +24,31 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlogApp.API.Controllers.UsersController",
+    "Method": "Get",
+    "RelativePath": "api/Users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlogApp.API.Controllers.UsersController",
+    "Method": "Post",
+    "RelativePath": "api/Users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BlogApp.BL.DTOs.User.UserCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

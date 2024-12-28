@@ -14,6 +14,7 @@ namespace BlogApp.BL
         public static IServiceCollection AddServices(this IServiceCollection services)
         {
             services.AddScoped<ICategoryService, CategoryService>();
+            services.AddScoped<IUserService, UserService>();
             return services;
         }
     }

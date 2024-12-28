@@ -3,100 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4DD01C6-9D37-4F40-AF9D-BDA55582EF7F}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4DD01C6-9D37-4F40-AF9D-BDA55582EF7F}|BlogApp.API\\BlogApp.API.csproj|solutionrelative:blogapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4DD01C6-9D37-4F40-AF9D-BDA55582EF7F}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4DD01C6-9D37-4F40-AF9D-BDA55582EF7F}|BlogApp.API\\BlogApp.API.csproj|solutionrelative:blogapp.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\dtos\\category\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\dtos\\category\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\dtos\\category\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\dtos\\category\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|solutionrelative:blogapp.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.dal\\context\\blogappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|solutionrelative:blogapp.dal\\context\\blogappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|solutionrelative:blogapp.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.core\\repositories\\categoryrepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\repositories\\categoryrepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4DD01C6-9D37-4F40-AF9D-BDA55582EF7F}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DD01C6-9D37-4F40-AF9D-BDA55582EF7F}|BlogApp.API\\BlogApp.API.csproj|solutionrelative:blogapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|solutionrelative:blogapp.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.dal\\blogapp.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|solutionrelative:blogapp.dal\\blogapp.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|solutionrelative:blogapp.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\Migrations\\20241227231807_Created_Category_User_Blog_Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlogApp.DAL\\Migrations\\20241227231807_Created_Category_User_Blog_Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.core\\repositories\\userrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\repositories\\userrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\Migrations\\20241227231451_Created_Category_User_Blog_Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlogApp.DAL\\Migrations\\20241227231451_Created_Category_User_Blog_Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.core\\repositories\\categoryrepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\repositories\\categoryrepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|solutionrelative:blogapp.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\dtos\\user\\usergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\dtos\\user\\usergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4DD01C6-9D37-4F40-AF9D-BDA55582EF7F}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F4DD01C6-9D37-4F40-AF9D-BDA55582EF7F}|BlogApp.API\\BlogApp.API.csproj|solutionrelative:blogapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\dtos\\user\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\dtos\\user\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.core\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.core\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.core\\blogapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\blogapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\dtos\\category\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\dtos\\category\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,312 +54,150 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "BlogApp.BL\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\ServiceRegistration.cs*",
-              "RelativeToolTip": "BlogApp.BL\\ServiceRegistration.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\ServiceRegistration.cs",
+              "RelativeToolTip": "BlogApp.BL\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T00:43:57.948Z",
+              "WhenOpened": "2024-12-28T01:11:04.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Interfaces\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "BlogApp.BL\\Services\\Interfaces\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Interfaces\\ICategoryService.cs",
-              "RelativeToolTip": "BlogApp.BL\\Services\\Interfaces\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T00:35:24.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Implements\\CategoryService.cs",
-              "RelativeDocumentMoniker": "BlogApp.BL\\Services\\Implements\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Implements\\CategoryService.cs",
-              "RelativeToolTip": "BlogApp.BL\\Services\\Implements\\CategoryService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAowBUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T00:35:07.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryGetDto.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\DTOs\\Category\\CategoryGetDto.cs",
-              "RelativeDocumentMoniker": "BlogApp.BL\\DTOs\\Category\\CategoryGetDto.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\DTOs\\Category\\CategoryGetDto.cs",
-              "RelativeToolTip": "BlogApp.BL\\DTOs\\Category\\CategoryGetDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T00:28:58.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoryCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\DTOs\\Category\\CategoryCreateDto.cs",
-              "RelativeDocumentMoniker": "BlogApp.BL\\DTOs\\Category\\CategoryCreateDto.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\DTOs\\Category\\CategoryCreateDto.cs",
-              "RelativeToolTip": "BlogApp.BL\\DTOs\\Category\\CategoryCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T00:23:01.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.API\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "BlogApp.API\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.API\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "BlogApp.API\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T00:04:37.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "BlogApp.DAL\\ServiceRegistration.cs",
               "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\ServiceRegistration.cs",
               "RelativeToolTip": "BlogApp.DAL\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T23:59:37.637Z",
+              "WhenOpened": "2024-12-28T01:10:45.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "BlogApp.DAL\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "BlogApp.DAL\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp.DAL\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "BlogApp.DAL\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T23:55:52.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "BlogApp.DAL\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "BlogApp.DAL\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T23:36:29.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BlogApp.DAL",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\BlogApp.DAL.csproj",
-              "RelativeDocumentMoniker": "BlogApp.DAL\\BlogApp.DAL.csproj",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\BlogApp.DAL.csproj",
-              "RelativeToolTip": "BlogApp.DAL\\BlogApp.DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-27T23:16:34.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\Repositories\\CategoryRepository\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "BlogApp.Core\\Repositories\\CategoryRepository\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\Repositories\\CategoryRepository\\ICategoryRepository.cs",
-              "RelativeToolTip": "BlogApp.Core\\Repositories\\CategoryRepository\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T23:31:58.37Z",
+              "WhenOpened": "2024-12-28T01:08:51.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\Repositories\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "BlogApp.Core\\Repositories\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\Repositories\\IGenericRepository.cs",
-              "RelativeToolTip": "BlogApp.Core\\Repositories\\IGenericRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAhwBEAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T23:22:44.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20241227231807_Created_Category_User_Blog_Table.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\Migrations\\20241227231807_Created_Category_User_Blog_Table.cs",
-              "RelativeDocumentMoniker": "BlogApp.DAL\\Migrations\\20241227231807_Created_Category_User_Blog_Table.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\Migrations\\20241227231807_Created_Category_User_Blog_Table.cs",
-              "RelativeToolTip": "BlogApp.DAL\\Migrations\\20241227231807_Created_Category_User_Blog_Table.cs",
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\Repositories\\CategoryRepository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp.Core\\Repositories\\CategoryRepository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\Repositories\\CategoryRepository\\ICategoryRepository.cs",
+              "RelativeToolTip": "BlogApp.Core\\Repositories\\CategoryRepository\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T23:18:08.196Z",
+              "WhenOpened": "2024-12-28T01:08:11.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20241227231451_Created_Category_User_Blog_Table.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\Migrations\\20241227231451_Created_Category_User_Blog_Table.cs",
-              "RelativeDocumentMoniker": "BlogApp.DAL\\Migrations\\20241227231451_Created_Category_User_Blog_Table.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\Migrations\\20241227231451_Created_Category_User_Blog_Table.cs",
-              "RelativeToolTip": "BlogApp.DAL\\Migrations\\20241227231451_Created_Category_User_Blog_Table.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BlogApp.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BlogApp.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T23:14:51.604Z",
+              "WhenOpened": "2024-12-28T01:06:38.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CategoryConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\Configurations\\CategoryConfiguration.cs",
-              "RelativeDocumentMoniker": "BlogApp.DAL\\Configurations\\CategoryConfiguration.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\Configurations\\CategoryConfiguration.cs",
-              "RelativeToolTip": "BlogApp.DAL\\Configurations\\CategoryConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "CategoryCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\DTOs\\Category\\CategoryCreateDto.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\DTOs\\Category\\CategoryCreateDto.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\DTOs\\Category\\CategoryCreateDto.cs",
+              "RelativeToolTip": "BlogApp.BL\\DTOs\\Category\\CategoryCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T23:00:49.141Z",
+              "WhenOpened": "2024-12-28T00:57:50.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\Repositories\\UserRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp.Core\\Repositories\\UserRepository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\Repositories\\UserRepository\\IUserRepository.cs",
+              "RelativeToolTip": "BlogApp.Core\\Repositories\\UserRepository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T00:54:59.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\DTOs\\User\\UserGetDto.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\DTOs\\User\\UserGetDto.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\DTOs\\User\\UserGetDto.cs",
+              "RelativeToolTip": "BlogApp.BL\\DTOs\\User\\UserGetDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T00:52:11.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\DTOs\\User\\UserCreateDto.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\DTOs\\User\\UserCreateDto.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\DTOs\\User\\UserCreateDto.cs",
+              "RelativeToolTip": "BlogApp.BL\\DTOs\\User\\UserCreateDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T00:51:59.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "BlogApp.BL\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T00:51:30.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.API\\Program.cs",
-              "RelativeDocumentMoniker": "BlogApp.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.API\\Program.cs*",
-              "RelativeToolTip": "BlogApp.API\\Program.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Implements\\UserService.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\Services\\Implements\\UserService.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Implements\\UserService.cs*",
+              "RelativeToolTip": "BlogApp.BL\\Services\\Implements\\UserService.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T22:50:06.931Z",
+              "WhenOpened": "2024-12-28T00:51:15.617Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.API\\appsettings.json",
-              "RelativeDocumentMoniker": "BlogApp.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.API\\appsettings.json",
-              "RelativeToolTip": "BlogApp.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-27T22:47:44.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BlogAppDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\Context\\BlogAppDBContext.cs",
-              "RelativeDocumentMoniker": "BlogApp.DAL\\Context\\BlogAppDBContext.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\Context\\BlogAppDBContext.cs",
-              "RelativeToolTip": "BlogApp.DAL\\Context\\BlogAppDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T22:25:20.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "BlogApp.Core\\GlobalUsings.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\GlobalUsings.cs",
-              "RelativeToolTip": "BlogApp.Core\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T22:13:40.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Blog.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\Entities\\Blog.cs",
-              "RelativeDocumentMoniker": "BlogApp.Core\\Entities\\Blog.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\Entities\\Blog.cs",
-              "RelativeToolTip": "BlogApp.Core\\Entities\\Blog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T21:18:08.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "BlogApp.Core\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\Entities\\User.cs",
-              "RelativeToolTip": "BlogApp.Core\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T21:17:37.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "BlogApp.Core\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\Entities\\Category.cs",
-              "RelativeToolTip": "BlogApp.Core\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T21:17:27.165Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "BlogApp.Core.csproj",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj",
-              "RelativeDocumentMoniker": "BlogApp.Core\\BlogApp.Core.csproj",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj",
-              "RelativeToolTip": "BlogApp.Core\\BlogApp.Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-27T21:13:10.873Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\Entities\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "BlogApp.Core\\Entities\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\Entities\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "BlogApp.Core\\Entities\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T21:13:33.32Z"
             }
           ]
         }
