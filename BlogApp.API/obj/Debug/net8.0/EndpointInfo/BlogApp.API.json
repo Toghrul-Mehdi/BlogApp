@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Categories": {
+    "/api/Categories/GetAll": {
       "get": {
         "tags": [
           "Categories"
@@ -15,7 +15,9 @@
             "description": "OK"
           }
         }
-      },
+      }
+    },
+    "/api/Categories/Create": {
       "post": {
         "tags": [
           "Categories"
@@ -46,7 +48,7 @@
         }
       }
     },
-    "/api/Users": {
+    "/api/Users/GetAll": {
       "get": {
         "tags": [
           "Users"
@@ -56,7 +58,9 @@
             "description": "OK"
           }
         }
-      },
+      }
+    },
+    "/api/Users/Register": {
       "post": {
         "tags": [
           "Users"
@@ -76,6 +80,37 @@
             "application/*+json": {
               "schema": {
                 "$ref": "#/components/schemas/UserCreateDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Users/Login": {
+      "post": {
+        "tags": [
+          "Users"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserLoginDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserLoginDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserLoginDto"
               }
             }
           }
@@ -112,6 +147,20 @@
             "nullable": true
           },
           "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "UserLoginDto": {
+        "type": "object",
+        "properties": {
+          "userName": {
             "type": "string",
             "nullable": true
           },

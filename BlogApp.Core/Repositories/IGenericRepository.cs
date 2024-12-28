@@ -15,6 +15,6 @@ namespace BlogApp.Core.Repositories
         Task AddAsync(T entity);
         void Remove(T entity);
         Task<bool> RemoveAsync(int id);
-        Task<int> SaveAsync();
+        Task<int> SaveAsync();        
     }
 }

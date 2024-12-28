@@ -1,18 +1,8 @@
 [
   {
     "ContainingType": "BlogApp.API.Controllers.CategoriesController",
-    "Method": "Get",
-    "RelativePath": "api/Categories",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "BlogApp.API.Controllers.CategoriesController",
     "Method": "Post",
-    "RelativePath": "api/Categories",
+    "RelativePath": "api/Categories/Create",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -26,9 +16,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "BlogApp.API.Controllers.UsersController",
+    "ContainingType": "BlogApp.API.Controllers.CategoriesController",
     "Method": "Get",
-    "RelativePath": "api/Users",
+    "RelativePath": "api/Categories/GetAll",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -37,8 +27,34 @@
   },
   {
     "ContainingType": "BlogApp.API.Controllers.UsersController",
+    "Method": "Get",
+    "RelativePath": "api/Users/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlogApp.API.Controllers.UsersController",
+    "Method": "Login",
+    "RelativePath": "api/Users/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BlogApp.BL.DTOs.User.UserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlogApp.API.Controllers.UsersController",
     "Method": "Post",
-    "RelativePath": "api/Users",
+    "RelativePath": "api/Users/Register",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

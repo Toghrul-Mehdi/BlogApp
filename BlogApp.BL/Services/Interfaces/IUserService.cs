@@ -12,5 +12,6 @@ namespace BlogApp.BL.Services.Interfaces
     {
         Task<IEnumerable<UserGetDto>> GetAllAsync();
         Task<int> CreateAsync(UserCreateDto dto);
+        Task<string> LoginAsync(UserLoginDto dto);
     }
 }

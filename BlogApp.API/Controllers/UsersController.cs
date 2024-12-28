@@ -1,5 +1,6 @@
 ﻿using BlogApp.BL.DTOs.Category;
 using BlogApp.BL.DTOs.User;
+using BlogApp.BL.Helpers;
 using BlogApp.BL.Services.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -21,9 +22,9 @@ namespace BlogApp.API.Controllers
             return Ok(await _service.CreateAsync(dto));
         }
         [HttpPost("Login")]
-        public async Task<IActionResult> Login(UserCreateDto dto)
+        public async Task<IActionResult> Login(UserLoginDto dto)
         {
-            return Ok(await _service.CreateAsync(dto));
+            return Ok(await _service.LoginAsync(dto));
         }
     }
 }
