@@ -26,5 +26,15 @@ namespace BlogApp.API.Controllers
         {
             return Ok(await _service.LoginAsync(dto));
         }
+        [HttpPost("Hash")]
+        public async Task<IActionResult> Hash(string password)
+        {
+            return Ok(HashHelper.HashPassword(password));
+        }
+        [HttpPost("HashVerify")]
+        public async Task<IActionResult> HashVerify(string password,string hash)
+        {
+            return Ok(HashHelper.VerifyPassword(password, hash));
+        }
     }
 }

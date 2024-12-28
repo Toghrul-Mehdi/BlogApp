@@ -21,3 +21,15 @@ C:\Users\Victus\OneDrive\İş masası\BlogApp\BlogApp.Core\obj\Debug\net8.0\Blog
 C:\Users\Victus\OneDrive\İş masası\BlogApp\BlogApp.Core\obj\Debug\net8.0\refint\BlogApp.Core.dll
 C:\Users\Victus\OneDrive\İş masası\BlogApp\BlogApp.Core\obj\Debug\net8.0\BlogApp.Core.pdb
 C:\Users\Victus\OneDrive\İş masası\BlogApp\BlogApp.Core\obj\Debug\net8.0\ref\BlogApp.Core.dll
+C:\Users\II novbe\Desktop\BlogApp\BlogApp.Core\bin\Debug\net8.0\BlogApp.Core.deps.json
+C:\Users\II novbe\Desktop\BlogApp\BlogApp.Core\bin\Debug\net8.0\BlogApp.Core.dll
+C:\Users\II novbe\Desktop\BlogApp\BlogApp.Core\bin\Debug\net8.0\BlogApp.Core.pdb
+C:\Users\II novbe\Desktop\BlogApp\BlogApp.Core\obj\Debug\net8.0\BlogApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\BlogApp\BlogApp.Core\obj\Debug\net8.0\BlogApp.Core.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\BlogApp\BlogApp.Core\obj\Debug\net8.0\BlogApp.Core.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\BlogApp\BlogApp.Core\obj\Debug\net8.0\BlogApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\BlogApp\BlogApp.Core\obj\Debug\net8.0\BlogApp.Core.sourcelink.json
+C:\Users\II novbe\Desktop\BlogApp\BlogApp.Core\obj\Debug\net8.0\BlogApp.Core.dll
+C:\Users\II novbe\Desktop\BlogApp\BlogApp.Core\obj\Debug\net8.0\refint\BlogApp.Core.dll
+C:\Users\II novbe\Desktop\BlogApp\BlogApp.Core\obj\Debug\net8.0\BlogApp.Core.pdb
+C:\Users\II novbe\Desktop\BlogApp\BlogApp.Core\obj\Debug\net8.0\ref\BlogApp.Core.dll
