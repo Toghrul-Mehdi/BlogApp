@@ -1,4 +1,5 @@
 ﻿using BlogApp.Core.Entities;
+using BlogApp.BL.Helpers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,7 +21,7 @@ namespace BlogApp.BL.DTOs.User
                 UserName = dto.UserName,
                 FullName = dto.FullName,
                 Email = dto.Email,
-                Password = dto.Password,
+                PasswordHash = BlogApp.BL.Helpers.HashHelper.HashPassword(dto.Password),
             };
             return user;
         }

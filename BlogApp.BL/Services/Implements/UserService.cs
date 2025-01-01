@@ -32,16 +32,20 @@ namespace BlogApp.BL.Services.Implements
                 UserName = x.UserName,
                 FullName = x.FullName,
                 Email = x.Email,
-                Password = x.Password,
             }).ToListAsync();
         }
 
         public async Task<string> LoginAsync(UserLoginDto dto)
         {
-            var user = await _context.Users.FirstOrDefaultAsync(x => x.UserName == dto.UserName && x.Password == dto.Password);
+            var user = await _context.Users.FirstOrDefaultAsync(x => x.UserName == dto.UserName);
             if (user == null)
             {
                 return "Istifadeci adi ve ya Parol yanlisdir";
+            }
+            bool isPasswordValid = BlogApp.BL.Helpers.HashHelper.VerifyHashedPassword(user.PasswordHash, dto.Password);
+            if (!isPasswordValid)
+            {
+                return "Parol yanlisdir";
             }
             return "Hesaba daxil oldunuz";
         }

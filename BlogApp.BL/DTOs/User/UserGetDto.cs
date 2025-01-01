@@ -14,7 +14,7 @@ namespace BlogApp.BL.DTOs.User
         public string FullName { get; set; }
         public string? Email { get; set; }
         public string Password { get; set; }
-        public static implicit operator UserGetDto(BlogApp.Core.Entities.User user)
+        /*public static implicit operator UserGetDto(BlogApp.Core.Entities.User user)
         {
             return new UserGetDto
             {
@@ -24,6 +24,6 @@ namespace BlogApp.BL.DTOs.User
                 Email =user.Email,
                 Password =user.Password
             };
-        }
+        }*/
     }
 }
