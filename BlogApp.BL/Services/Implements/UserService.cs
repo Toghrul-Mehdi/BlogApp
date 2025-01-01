@@ -1,5 +1,6 @@
 ﻿using BlogApp.BL.DTOs.Category;
 using BlogApp.BL.DTOs.User;
+using BlogApp.BL.Exceptions.Common;
 using BlogApp.BL.Services.Interfaces;
 using BlogApp.Core.Entities;
 using BlogApp.Core.Repositories.CategoryRepository;
@@ -17,7 +18,7 @@ namespace BlogApp.BL.Services.Implements
     public class UserService(IUserRepository _repo,BlogAppDBContext _context) : IUserService
     {
         public async Task<int> CreateAsync(UserCreateDto dto)
-        {
+        {            
             User user = dto;
             await _repo.AddAsync(user);
             await _repo.SaveAsync();
@@ -32,6 +33,7 @@ namespace BlogApp.BL.Services.Implements
                 UserName = x.UserName,
                 FullName = x.FullName,
                 Email = x.Email,
+                PasswordHash = x.PasswordHash,
             }).ToListAsync();
         }
 
@@ -40,12 +42,12 @@ namespace BlogApp.BL.Services.Implements
             var user = await _context.Users.FirstOrDefaultAsync(x => x.UserName == dto.UserName);
             if (user == null)
             {
-                return "Istifadeci adi ve ya Parol yanlisdir";
+                throw new NotFoundException<User>();    
             }
             bool isPasswordValid = BlogApp.BL.Helpers.HashHelper.VerifyHashedPassword(user.PasswordHash, dto.Password);
             if (!isPasswordValid)
             {
-                return "Parol yanlisdir";
+                return "Istifadeci adi ve ya parol yanlisdir";
             }
             return "Hesaba daxil oldunuz";
         }

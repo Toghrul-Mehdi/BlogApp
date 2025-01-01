@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace BlogApp.BL.Services.Interfaces
 {
-    public interface IBlogService
+    /*public interface IBlogService
     {
         Task<IEnumerable<>>
-    }
+    }*/
 }

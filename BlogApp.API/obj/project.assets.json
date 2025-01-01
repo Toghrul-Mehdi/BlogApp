@@ -60,6 +60,39 @@
           }
         }
       },
+      "Microsoft.AspNetCore.Http.Abstractions/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "2.2.0",
+          "System.Text.Encodings.Web": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Http.Features/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "2.2.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
         "type": "package",
         "compile": {
@@ -1575,7 +1608,8 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "BlogApp.Core": "1.0.0",
-          "BlogApp.DAL": "1.0.0"
+          "BlogApp.DAL": "1.0.0",
+          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0"
         },
         "compile": {
           "bin/placeholder/BlogApp.BL.dll": {}
@@ -1666,6 +1700,32 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
+      ]
+    },
+    "Microsoft.AspNetCore.Http.Abstractions/2.2.0": {
+      "sha512": "Nxs7Z1q3f1STfLYKJSVXCs1iBl+Ya6E8o4Oy1bCxJ/rNI44E/0f6tbsrVqAWfB7jlnJfyaAtIalBVxPKUPQb4Q==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.http.abstractions/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.xml",
+        "microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+        "microsoft.aspnetcore.http.abstractions.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Http.Features/2.2.0": {
+      "sha512": "ziFz5zH8f33En4dX81LW84I6XrYXKf9jg6aM39cM+LffN9KJahViKZ61dGMSO2gd3e+qe5yBRwsesvyqlZaSMg==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.http.features/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.xml",
+        "microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+        "microsoft.aspnetcore.http.features.nuspec"
       ]
     },
     "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
@@ -4464,11 +4524,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp1\\BlogApp.API\\BlogApp.API.csproj",
+      "projectUniqueName": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp\\BlogApp.API\\BlogApp.API.csproj",
       "projectName": "BlogApp.API",
-      "projectPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp1\\BlogApp.API\\BlogApp.API.csproj",
+      "projectPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp\\BlogApp.API\\BlogApp.API.csproj",
       "packagesPath": "C:\\Users\\Victus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp1\\BlogApp.API\\obj\\",
+      "outputPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp\\BlogApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4489,11 +4549,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp1\\BlogApp.BL\\BlogApp.BL.csproj": {
-              "projectPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp1\\BlogApp.BL\\BlogApp.BL.csproj"
+            "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp\\BlogApp.BL\\BlogApp.BL.csproj": {
+              "projectPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp\\BlogApp.BL\\BlogApp.BL.csproj"
             },
-            "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp1\\BlogApp.DAL\\BlogApp.DAL.csproj": {
-              "projectPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp1\\BlogApp.DAL\\BlogApp.DAL.csproj"
+            "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp\\BlogApp.DAL\\BlogApp.DAL.csproj": {
+              "projectPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp\\BlogApp.DAL\\BlogApp.DAL.csproj"
             }
           }
         }

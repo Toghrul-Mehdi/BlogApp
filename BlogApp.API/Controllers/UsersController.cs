@@ -1,5 +1,6 @@
 ﻿using BlogApp.BL.DTOs.Category;
 using BlogApp.BL.DTOs.User;
+using BlogApp.BL.Exceptions;
 using BlogApp.BL.Helpers;
 using BlogApp.BL.Services.Interfaces;
 using Microsoft.AspNetCore.Http;
@@ -24,17 +25,26 @@ namespace BlogApp.API.Controllers
         [HttpPost("Login")]
         public async Task<IActionResult> Login(UserLoginDto dto)
         {
-            return Ok(await _service.LoginAsync(dto));
+            try
+            {
+                return Ok(await _service.LoginAsync(dto));
+            }
+            catch (Exception ex)
+            {
+                if (ex is IBaseException bEx)
+                {
+                    return StatusCode(bEx.StatusCode, new
+                    {
+                        Message = bEx.ErrorMessage
+                    });
+                }
+                else
+                {
+                    return BadRequest(ex.Message);
+                }
+            }
         }
-        [HttpPost("Hash")]
-        public async Task<IActionResult> Hash(string password)
-        {
-            return Ok(HashHelper.HashPassword(password));
-        }
-        [HttpPost("HashVerify")]
-        public async Task<IActionResult> HashVerify(string password,string hash)
-        {
-            return Ok(HashHelper.VerifyPassword(password, hash));
-        }
+        
+        
     }
 }

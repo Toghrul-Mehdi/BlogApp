@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BlogApp.DAL.Repositories
 {
-    public class BlogRepository : GenericRepository<Blog>
+    /*public class BlogRepository : GenericRepository<Blog>
     {
-    }
+    }*/
 }

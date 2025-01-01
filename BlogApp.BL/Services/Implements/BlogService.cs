@@ -10,8 +10,8 @@ using System.Threading.Tasks;
 
 namespace BlogApp.BL.Services.Implements
 {
-    public class BlogService(IBlogRepository _repo) : IBlogService
+   /* public class BlogService(IBlogRepository _repo) : IBlogService
     {
         
-    }
+    }*/
 }

@@ -13,17 +13,17 @@ namespace BlogApp.BL.DTOs.User
         public string UserName { get; set; }
         public string FullName { get; set; }
         public string? Email { get; set; }
-        public string Password { get; set; }
-        /*public static implicit operator UserGetDto(BlogApp.Core.Entities.User user)
+        public string PasswordHash { get; set; }
+        public static implicit operator UserGetDto(BlogApp.Core.Entities.User user)
         {
             return new UserGetDto
             {
                 Id = user.Id,
                 UserName = user.UserName,
                 FullName = user.FullName,
-                Email =user.Email,
-                Password =user.Password
+                Email = user.Email,
+                PasswordHash = user.PasswordHash,
             };
-        }*/
+        }
     }
 }

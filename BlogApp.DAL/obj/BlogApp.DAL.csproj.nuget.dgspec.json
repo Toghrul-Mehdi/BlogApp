@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp1\\BlogApp.DAL\\BlogApp.DAL.csproj": {}
+    "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp\\BlogApp.DAL\\BlogApp.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp1\\BlogApp.Core\\BlogApp.Core.csproj": {
+    "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp1\\BlogApp.Core\\BlogApp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj",
         "projectName": "BlogApp.Core",
-        "projectPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp1\\BlogApp.Core\\BlogApp.Core.csproj",
+        "projectPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj",
         "packagesPath": "C:\\Users\\Victus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp1\\BlogApp.Core\\obj\\",
+        "outputPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp\\BlogApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp1\\BlogApp.DAL\\BlogApp.DAL.csproj": {
+    "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp\\BlogApp.DAL\\BlogApp.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp1\\BlogApp.DAL\\BlogApp.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp\\BlogApp.DAL\\BlogApp.DAL.csproj",
         "projectName": "BlogApp.DAL",
-        "projectPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp1\\BlogApp.DAL\\BlogApp.DAL.csproj",
+        "projectPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp\\BlogApp.DAL\\BlogApp.DAL.csproj",
         "packagesPath": "C:\\Users\\Victus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp1\\BlogApp.DAL\\obj\\",
+        "outputPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp\\BlogApp.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp1\\BlogApp.Core\\BlogApp.Core.csproj": {
-                "projectPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp1\\BlogApp.Core\\BlogApp.Core.csproj"
+              "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj": {
+                "projectPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj"
               }
             }
           }
