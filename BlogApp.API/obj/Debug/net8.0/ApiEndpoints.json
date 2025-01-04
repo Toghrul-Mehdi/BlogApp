@@ -26,6 +26,38 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "BlogApp.API.Controllers.EmailsController",
+    "Method": "SendVerificationEmail",
+    "RelativePath": "api/Emails/Send-Email",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlogApp.API.Controllers.EmailsController",
+    "Method": "VerifyEmail",
+    "RelativePath": "api/Emails/Verify-Email",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "BlogApp.API.Controllers.UsersController",
     "Method": "Get",
     "RelativePath": "api/Users/GetAll",
@@ -63,38 +95,6 @@
         "Name": "dto",
         "Type": "BlogApp.BL.DTOs.User.UserCreateDto",
         "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "BlogApp.API.Controllers.UsersController",
-    "Method": "SendVerificationEmail",
-    "RelativePath": "api/Users/Send-Email",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "email",
-        "Type": "System.String",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "BlogApp.API.Controllers.UsersController",
-    "Method": "VerifyEmail",
-    "RelativePath": "api/Users/Verify-Email",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "token",
-        "Type": "System.String",
-        "IsRequired": false
       }
     ],
     "ReturnTypes": []

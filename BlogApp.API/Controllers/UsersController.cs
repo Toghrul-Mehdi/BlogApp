@@ -46,7 +46,7 @@ namespace BlogApp.API.Controllers
             }
         }
         
-        [HttpPost("Send-Email")]
+        /*[HttpPost("Send-Email")]
         public async Task<IActionResult> SendVerificationEmail(string email)
         {
             await _emailservice.SendVerificationEmail(email);
@@ -58,9 +58,6 @@ namespace BlogApp.API.Controllers
         {
             await _emailservice.VerifyEmail(token);
             return Ok("Email Ugurla Dogrulandi.");
-        }
-
-
-
+        }*/
     }
 }

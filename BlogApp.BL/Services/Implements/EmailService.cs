@@ -22,6 +22,8 @@ namespace BlogApp.BL.Services.Implements
         readonly SmtpOptions _smtp = _options.Value;
         public async Task<string> GenerateEmailVerificationToken(string email)
         {
+            
+
             var claims = new List<Claim>
     {
         new Claim(ClaimTypes.Email, email)
@@ -43,35 +45,39 @@ namespace BlogApp.BL.Services.Implements
             return handler.WriteToken(token);
         }
 
-        public Task<string> SendVerificationEmail(string email)
+        public async Task<string> SendVerificationEmail(string email)
         {
-
-            var token = GenerateEmailVerificationToken(email).Result;
-            var verificationUrl = $"http://localhost:5011/verify-email?token={token}";
-
-
-            SmtpClient smtp = new SmtpClient
+            var data = await _context.Users.FirstOrDefaultAsync(x => x.Email == email);
+            if(data != null)
             {
-                Host = _smtp.Host,
-                Port = _smtp.Port,
-                EnableSsl = true,
-                Credentials = new NetworkCredential(_smtp.Username, _smtp.Password)
-            };
+                var token = GenerateEmailVerificationToken(email).Result;
+                var verificationUrl = $"http://localhost:5011/verify-email?token={token}";
 
 
-            MailMessage msg = new MailMessage
-            {
-                From = new MailAddress(_smtp.Username, "Togrul Mehdiyev CodeAcademy"),
-                Subject = "E-posta Doğrulama",
-                Body = $"<p>Hesabınızı tesdiqlemek ucun <a href='{verificationUrl}'>bu linke</a> klikleyin.</p>",
-                IsBodyHtml = true
-            };
-            msg.To.Add(email);
+                SmtpClient smtp = new SmtpClient
+                {
+                    Host = _smtp.Host,
+                    Port = _smtp.Port,
+                    EnableSsl = true,
+                    Credentials = new NetworkCredential(_smtp.Username, _smtp.Password)
+                };
 
 
-            smtp.Send(msg);
+                MailMessage msg = new MailMessage
+                {
+                    From = new MailAddress(_smtp.Username, "Togrul Mehdiyev CodeAcademy"),
+                    Subject = "E-posta Doğrulama",
+                    Body = $"<p>Hesabınızı təsdiq etmək üçün aşağıdaki tokeni istifade edin:</p>" + $"<p><strong>{token}</strong></p>",
+                    IsBodyHtml = true
+                };
+                msg.To.Add(email);
 
-            return Task.FromResult("Email ugurla gonderildi.");
+
+                smtp.Send(msg);
+
+                return "Email gonderildi";
+            }
+            return "Bele bir email tapilmadi.";           
 
 
         }
@@ -90,14 +96,14 @@ namespace BlogApp.BL.Services.Implements
                 ValidIssuer = _configuration["Jwt:Issuer"],
                 ValidAudience = _configuration["Jwt:Audience"],
                 IssuerSigningKey = key
-            },out var validatedToken);
+            }, out var validatedToken);
 
             var email = claims.FindFirst(ClaimTypes.Email)?.Value;
 
-            if(email != null)
+            if (email != null)
             {
                 var user = await _context.Users.FirstOrDefaultAsync(x => x.Email == email);
-                if(user != null)
+                if (user != null)
                 {
                     user.IsEmailConfirmed = true;
                     user.Role = 1;
