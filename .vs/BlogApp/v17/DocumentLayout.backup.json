@@ -3,72 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\services\\implements\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\services\\implements\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F4DD01C6-9D37-4F40-AF9D-BDA55582EF7F}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4DD01C6-9D37-4F40-AF9D-BDA55582EF7F}|BlogApp.API\\BlogApp.API.csproj|solutionrelative:blogapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\exceptions\\common\\existexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\exceptions\\common\\existexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\dtos\\options\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\dtos\\options\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\exceptions\\common\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\exceptions\\common\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4DD01C6-9D37-4F40-AF9D-BDA55582EF7F}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4DD01C6-9D37-4F40-AF9D-BDA55582EF7F}|BlogApp.API\\BlogApp.API.csproj|solutionrelative:blogapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\dtos\\user\\usergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\dtos\\user\\usergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\dtos\\user\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\dtos\\user\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\services\\implements\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\services\\implements\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.dal\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|solutionrelative:blogapp.dal\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\services\\interfaces\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\services\\interfaces\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\helpers\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\helpers\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\dtos\\user\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\dtos\\user\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28D45C0A-133F-43BC-AFDC-2A99513354FE}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.bl\\blogapp.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D677D12F-644F-46B6-AB87-6033CEBADAC8}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\blogapp.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.dal\\migrations\\20250101105842_updateduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2D9F84-89BD-4B60-808E-D59E26DC585F}|BlogApp.DAL\\BlogApp.DAL.csproj|solutionrelative:blogapp.dal\\migrations\\20250101105842_updateduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4DD01C6-9D37-4F40-AF9D-BDA55582EF7F}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\blogapp\\blogapp.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DD01C6-9D37-4F40-AF9D-BDA55582EF7F}|BlogApp.API\\BlogApp.API.csproj|solutionrelative:blogapp.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,222 +42,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BlogApp.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BlogApp.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:20:16.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ExistException.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Exceptions\\Common\\ExistException.cs",
-              "RelativeDocumentMoniker": "BlogApp.BL\\Exceptions\\Common\\ExistException.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Exceptions\\Common\\ExistException.cs*",
-              "RelativeToolTip": "BlogApp.BL\\Exceptions\\Common\\ExistException.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBkAAAAFAAAAAAAAAA==",
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\ServiceRegistration.cs",
+              "RelativeToolTip": "BlogApp.BL\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T13:34:17.037Z",
+              "WhenOpened": "2025-01-04T16:19:25.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Exceptions\\Common\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "BlogApp.BL\\Exceptions\\Common\\NotFoundException.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Exceptions\\Common\\NotFoundException.cs*",
-              "RelativeToolTip": "BlogApp.BL\\Exceptions\\Common\\NotFoundException.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Implements\\EmailService.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\Services\\Implements\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Implements\\EmailService.cs",
+              "RelativeToolTip": "BlogApp.BL\\Services\\Implements\\EmailService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAewGgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T13:21:52.129Z",
+              "WhenOpened": "2025-01-04T16:16:45.008Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IBaseException.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Exceptions\\IBaseException.cs",
-              "RelativeDocumentMoniker": "BlogApp.BL\\Exceptions\\IBaseException.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Exceptions\\IBaseException.cs*",
-              "RelativeToolTip": "BlogApp.BL\\Exceptions\\IBaseException.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T13:21:05.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BlogService.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Implements\\BlogService.cs",
-              "RelativeDocumentMoniker": "BlogApp.BL\\Services\\Implements\\BlogService.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Implements\\BlogService.cs",
-              "RelativeToolTip": "BlogApp.BL\\Services\\Implements\\BlogService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T11:37:28.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IBlogService.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Interfaces\\IBlogService.cs",
-              "RelativeDocumentMoniker": "BlogApp.BL\\Services\\Interfaces\\IBlogService.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Interfaces\\IBlogService.cs",
-              "RelativeToolTip": "BlogApp.BL\\Services\\Interfaces\\IBlogService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T11:36:06.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BlogRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\Repositories\\BlogRepository.cs",
-              "RelativeDocumentMoniker": "BlogApp.DAL\\Repositories\\BlogRepository.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\Repositories\\BlogRepository.cs",
-              "RelativeToolTip": "BlogApp.DAL\\Repositories\\BlogRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T11:33:40.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20250101105842_UpdatedUser.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\Migrations\\20250101105842_UpdatedUser.cs",
-              "RelativeDocumentMoniker": "BlogApp.DAL\\Migrations\\20250101105842_UpdatedUser.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.DAL\\Migrations\\20250101105842_UpdatedUser.cs",
-              "RelativeToolTip": "BlogApp.DAL\\Migrations\\20250101105842_UpdatedUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T11:29:54.132Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserGetDto.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\DTOs\\User\\UserGetDto.cs",
-              "RelativeDocumentMoniker": "BlogApp.BL\\DTOs\\User\\UserGetDto.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\DTOs\\User\\UserGetDto.cs",
-              "RelativeToolTip": "BlogApp.BL\\DTOs\\User\\UserGetDto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBgAAAAxAAAAAAAAAA==",
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\Services\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "BlogApp.BL\\Services\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T11:29:54.336Z",
+              "WhenOpened": "2025-01-04T16:12:53.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "UserCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\DTOs\\User\\UserCreateDto.cs",
-              "RelativeDocumentMoniker": "BlogApp.BL\\DTOs\\User\\UserCreateDto.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\DTOs\\User\\UserCreateDto.cs",
-              "RelativeToolTip": "BlogApp.BL\\DTOs\\User\\UserCreateDto.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAANAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.API\\appsettings.json",
+              "RelativeToolTip": "BlogApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T16:04:12.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\DTOs\\Options\\JwtService.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\DTOs\\Options\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\DTOs\\Options\\JwtService.cs",
+              "RelativeToolTip": "BlogApp.BL\\DTOs\\Options\\JwtService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAzwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T11:29:54.346Z",
+              "WhenOpened": "2025-01-04T15:49:07.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "BlogApp.Core\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\Entities\\User.cs",
-              "RelativeToolTip": "BlogApp.Core\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "BlogApp.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "BlogApp.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T11:29:54.352Z"
+              "WhenOpened": "2025-01-04T15:37:14.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Implements\\UserService.cs",
               "RelativeDocumentMoniker": "BlogApp.BL\\Services\\Implements\\UserService.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Implements\\UserService.cs*",
-              "RelativeToolTip": "BlogApp.BL\\Services\\Implements\\UserService.cs*",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDQAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Implements\\UserService.cs",
+              "RelativeToolTip": "BlogApp.BL\\Services\\Implements\\UserService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwBUAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T11:29:54.352Z",
+              "WhenOpened": "2025-01-02T13:55:11.734Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\Repositories\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "BlogApp.Core\\Repositories\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.Core\\Repositories\\IGenericRepository.cs",
-              "RelativeToolTip": "BlogApp.Core\\Repositories\\IGenericRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T11:29:54.368Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserLoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\DTOs\\User\\UserLoginDto.cs",
-              "RelativeDocumentMoniker": "BlogApp.BL\\DTOs\\User\\UserLoginDto.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\DTOs\\User\\UserLoginDto.cs",
-              "RelativeToolTip": "BlogApp.BL\\DTOs\\User\\UserLoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T11:29:54.368Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "BlogApp.BL\\Services\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Services\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "BlogApp.BL\\Services\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T11:29:54.368Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.API\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "BlogApp.API\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.API\\Controllers\\UsersController.cs*",
-              "RelativeToolTip": "BlogApp.API\\Controllers\\UsersController.cs*",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T11:29:54.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HashHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Helpers\\HashHelper.cs",
-              "RelativeDocumentMoniker": "BlogApp.BL\\Helpers\\HashHelper.cs",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\Helpers\\HashHelper.cs",
-              "RelativeToolTip": "BlogApp.BL\\Helpers\\HashHelper.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAArwDcAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T11:29:54.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BlogApp.BL.csproj",
-              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\BlogApp.BL.csproj",
-              "RelativeDocumentMoniker": "BlogApp.BL\\BlogApp.BL.csproj",
-              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\BlogApp\\BlogApp.BL\\BlogApp.BL.csproj",
-              "RelativeToolTip": "BlogApp.BL\\BlogApp.BL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-01T11:29:54.399Z"
             }
           ]
         }

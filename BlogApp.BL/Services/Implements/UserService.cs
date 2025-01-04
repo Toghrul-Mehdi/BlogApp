@@ -7,9 +7,13 @@ using BlogApp.Core.Repositories.CategoryRepository;
 using BlogApp.Core.Repositories.UserRepository;
 using BlogApp.DAL.Context;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using System;
 using System.Collections.Generic;
+using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
+using System.Runtime.InteropServices;
+using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -19,6 +23,18 @@ namespace BlogApp.BL.Services.Implements
     {
         public async Task<int> CreateAsync(UserCreateDto dto)
         {            
+            var data = await _repo.GetAll().Where(x=>x.UserName == dto.UserName || x.Email==dto.Email).FirstOrDefaultAsync(); 
+            if (data!=null)
+            {
+                if (data.Email != dto.Email)
+                {
+                    throw new Exception("Email already using by another user");
+                }
+                else
+                {
+                    throw new Exception("Username already using by another user");
+                }
+            }
             User user = dto;
             await _repo.AddAsync(user);
             await _repo.SaveAsync();
@@ -44,6 +60,7 @@ namespace BlogApp.BL.Services.Implements
             {
                 throw new NotFoundException<User>();    
             }
+            
             bool isPasswordValid = BlogApp.BL.Helpers.HashHelper.VerifyHashedPassword(user.PasswordHash, dto.Password);
             if (!isPasswordValid)
             {

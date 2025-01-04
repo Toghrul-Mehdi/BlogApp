@@ -3,6 +3,7 @@ using BlogApp.DAL.Context;
 using Microsoft.EntityFrameworkCore;
 using System.Data.Common;
 using BlogApp.DAL;
+using BlogApp.BL.Helpers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +17,10 @@ builder.Services.AddDbContext<BlogAppDBContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("Mssql"));
 });
+
+SmtpOptions opt = new();
+builder.Services.Configure<SmtpOptions>(builder.Configuration.GetSection("Smtp"));
+
 builder.Services.AddRepositories();
 builder.Services.AddServices();
 var app = builder.Build();

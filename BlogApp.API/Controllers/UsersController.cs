@@ -2,6 +2,7 @@
 using BlogApp.BL.DTOs.User;
 using BlogApp.BL.Exceptions;
 using BlogApp.BL.Helpers;
+using BlogApp.BL.Services.Implements;
 using BlogApp.BL.Services.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -10,7 +11,7 @@ namespace BlogApp.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class UsersController(IUserService _service) : ControllerBase
+    public class UsersController(IUserService _service,IEmailService _emailservice) : ControllerBase
     {
         [HttpGet("GetAll")]
         public async Task<IActionResult> Get()
@@ -45,6 +46,21 @@ namespace BlogApp.API.Controllers
             }
         }
         
-        
+        [HttpPost("Send-Email")]
+        public async Task<IActionResult> SendVerificationEmail(string email)
+        {
+            await _emailservice.SendVerificationEmail(email);
+            return Ok("Mail ugurla gonderildi.");
+        }
+
+        [HttpPost("Verify-Email")]
+        public async Task<IActionResult> VerifyEmail(string token)
+        {
+            await _emailservice.VerifyEmail(token);
+            return Ok("Email Ugurla Dogrulandi.");
+        }
+
+
+
     }
 }

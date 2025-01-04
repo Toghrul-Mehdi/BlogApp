@@ -12,6 +12,8 @@ namespace BlogApp.Core.Entities
         public string FullName { get; set; } = null!;
         public string? Email { get; set; }
         public string PasswordHash { get; set; } = null!;
+        public bool IsEmailConfirmed { get; set; } = false;
+        public int Role { get; set; } = 2;
         public IEnumerable<Blog> Blogs { get; set; }
     }
 }

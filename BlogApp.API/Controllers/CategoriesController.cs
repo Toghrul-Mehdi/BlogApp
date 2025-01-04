@@ -2,6 +2,7 @@
 using BlogApp.BL.Services.Interfaces;
 using BlogApp.Core.Entities;
 using BlogApp.Core.Repositories.CategoryRepository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -14,6 +15,7 @@ namespace BlogApp.API.Controllers
     public class CategoriesController(ICategoryService _service) : ControllerBase
     {
         [HttpGet("GetAll")]
+        [Authorize]
         public async Task<IActionResult> Get()
         {
             return Ok(await _service.GetAllAsync());
