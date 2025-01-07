@@ -21,8 +21,7 @@ namespace BlogApp.BL.Services.Implements
     {
         readonly SmtpOptions _smtp = _options.Value;
         public async Task<string> GenerateEmailVerificationToken(string email)
-        {
-            
+        {           
 
             var claims = new List<Claim>
     {

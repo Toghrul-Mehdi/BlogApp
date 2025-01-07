@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "BlogApp.API.Controllers.BlogsController",
+    "Method": "Post",
+    "RelativePath": "api/Blogs/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BlogApp.BL.DTOs.Blog.BlogCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlogApp.API.Controllers.BlogsController",
+    "Method": "Get",
+    "RelativePath": "api/Blogs/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "BlogApp.API.Controllers.CategoriesController",
     "Method": "Post",
     "RelativePath": "api/Categories/Create",

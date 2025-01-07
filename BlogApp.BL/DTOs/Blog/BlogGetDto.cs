@@ -9,7 +9,6 @@ namespace BlogApp.BL.DTOs.Blog
 {
     public class BlogGetDto
     {
-        public int Id { get; set; }
         public string Title { get; set; }
         public string Content { get; set; }
         public int CategoryId { get; set; }
@@ -18,7 +17,6 @@ namespace BlogApp.BL.DTOs.Blog
         {
             return new BlogGetDto
             {
-                Id = blog.Id,
                 Title = blog.Title,
                 Content = blog.Content,
                 CategoryId = blog.CategoryId,

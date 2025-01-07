@@ -15,6 +15,7 @@ namespace BlogApp.BL
         {
             services.AddScoped<ICategoryService, CategoryService>();
             services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IBlogService, BlogService>();
             services.AddScoped<IEmailService, EmailService>();
             return services;
         }
