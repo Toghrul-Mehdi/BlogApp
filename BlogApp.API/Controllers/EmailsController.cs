@@ -12,13 +12,14 @@ namespace BlogApp.API.Controllers
         [HttpPost("Send-Email")]
         public async Task<IActionResult> SendVerificationEmail(string email)
         {            
-            return Ok(await _emailservice.SendVerificationEmail(email));
+            return Ok(await _emailservice.SendVerificationEmailAsync(email));
         }
 
         [HttpPost("Verify-Email")]
-        public async Task<IActionResult> VerifyEmail(string token)
+        public async Task<IActionResult> VerifyEmail(string email,int code)
         {
-            return Ok(_emailservice.VerifyEmail(token));
+           await _emailservice.VerifyEmailAsync(email,code);
+            return Ok("Email Verified");
         }
     }
 }

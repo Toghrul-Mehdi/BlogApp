@@ -17,7 +17,7 @@ builder.Services.AddDbContext<BlogAppDBContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("Mssql"));
 });
-
+builder.Services.AddMemoryCache();
 SmtpOptions opt = new();
 builder.Services.Configure<SmtpOptions>(builder.Configuration.GetSection("Smtp"));
 

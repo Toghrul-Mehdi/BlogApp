@@ -9,7 +9,7 @@ namespace BlogApp.BL.Services.Interfaces
     public interface IEmailService
     {
         Task<string> GenerateEmailVerificationToken(string email);
-        Task<string> SendVerificationEmail(string email);
-        Task VerifyEmail(string token);
+        Task<string> SendVerificationEmailAsync(string email);
+        Task<bool> VerifyEmailAsync(string email,int code);
     }
 }

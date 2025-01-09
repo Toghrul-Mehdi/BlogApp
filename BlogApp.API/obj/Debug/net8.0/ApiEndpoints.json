@@ -76,8 +76,13 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "token",
+        "Name": "email",
         "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "code",
+        "Type": "System.Int32",
         "IsRequired": false
       }
     ],

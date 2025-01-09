@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BlogApp.Core.Enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,7 +14,7 @@ namespace BlogApp.Core.Entities
         public string? Email { get; set; }
         public string PasswordHash { get; set; } = null!;
         public bool IsEmailConfirmed { get; set; } = false;
-        public int Role { get; set; } = 2;
+        public int Role { get; set; } = (int)Roles.Viewer;
         public IEnumerable<Blog> Blogs { get; set; }
     }
 }

@@ -119,10 +119,18 @@
         ],
         "parameters": [
           {
-            "name": "token",
+            "name": "email",
             "in": "query",
             "schema": {
               "type": "string"
+            }
+          },
+          {
+            "name": "code",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
             }
           }
         ],
